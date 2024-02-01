@@ -2,7 +2,7 @@
 
 This expression cycles through words in a text layer, displaying a specific number of words at a time with adjustable timing parameters
 
-1- Open Adobe After Effects.
+1- Open Adobe After Effects. <br>
 2- Create or select the text layer to which you want to apply the expression.
 3- Open the "Expressions" panel by selecting the text layer and then going to "Window" > "Expressions."
 4- In the "Expressions" panel, you can see a text area where you can paste your expression code.
